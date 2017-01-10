@@ -8,4 +8,4 @@ misc dev stuff
 * http://masstransit-project.com/
 * https://coreos.com/etcd/docs/latest/
 * https://www.consul.io/
-
+* https://www.gitbook.com/explore
