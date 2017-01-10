@@ -6,5 +6,6 @@ misc dev stuff
 * http://kubernetes.io/
 * http://swagger.io/swagger-editor/
 * http://masstransit-project.com/
-* 
+* https://coreos.com/etcd/docs/latest/
+* https://www.consul.io/
 
